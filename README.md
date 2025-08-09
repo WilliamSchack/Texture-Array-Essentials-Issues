@@ -1,7 +1,7 @@
 # Texture-Array-Essentials-Issues
 
-[![Static Badge](https://img.shields.io/badge/Unity%20Asset%20Store-grey?logo=unity)](https://assetstore.unity.com/packages/slug/306888)
-[![Static Badge](https://img.shields.io/badge/Itch-grey?logo=itchdotio)](https://wilschack.itch.io/texture-array-essentials)
+[![Static Badge](https://img.shields.io/badge/Asset%20Store-grey?logo=unity)](https://assetstore.unity.com/packages/slug/306888)
+[![Static Badge](https://img.shields.io/badge/Itch.io-grey?logo=itchdotio)](https://wilschack.itch.io/texture-array-essentials)
 
 A repo for reporting issues with the Texture Array Essentials Unity Asset
 
