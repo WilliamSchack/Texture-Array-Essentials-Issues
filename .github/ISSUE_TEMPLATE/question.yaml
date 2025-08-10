@@ -2,6 +2,11 @@ name: Question
 description: Ask a question about Spotify Downloader
 labels: [question]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Please provide all fields with the required (*) icon
   - type: textarea
     id: question
     attributes:
