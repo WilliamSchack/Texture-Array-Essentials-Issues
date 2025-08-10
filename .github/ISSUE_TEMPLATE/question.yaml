@@ -1,0 +1,11 @@
+name: Question
+description: Ask a question about Spotify Downloader
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      placeholder: Provide any additional information and context if possible
+    validations:
+      required: true
