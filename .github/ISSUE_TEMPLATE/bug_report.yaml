@@ -35,7 +35,7 @@ body:
       placeholder: Provide any information and suggested solutions with as much context and detail as possible
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     id: reproduction
     attributes:
       label: Provide steps to reproduce the bug
